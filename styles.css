@@ -1,0 +1,43 @@
+div{
+    display:flex; 
+}
+div img{
+    margin-left:200px;
+    border-radius:300px;
+    height:600px;
+    width:600px  
+}
+.content{
+    height:300px;
+    font-size: 22px;
+}
+.navbar{
+    display: flex;
+    background-color: black;
+    height: 100px;
+}
+.navbar img{
+    height: 150px;
+    width: 150px;
+    border-radius: 100px;
+    position: absolute;
+    margin-top: -25px;
+    margin-left: 400px;
+}
+.navbar h1{
+    margin-left: 70vh;
+    margin-top: 15px;
+    padding-left: 100px;
+}
+.bihar{
+    color: black;
+    width: 100px;
+    margin-left: 430px;
+    font-size: 40px;
+    margin-top: 30px;
+  padding-top: 10px;
+  margin-bottom: 0px;
+}
+.ak{
+    margin-top: 0px;
+}
